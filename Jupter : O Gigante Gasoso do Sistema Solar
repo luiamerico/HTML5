@@ -9,21 +9,32 @@
     <section>
         <header>
             <h1>Júpter: O Gigante Gasoso do Sistema Solar</h1>
-        </header>    
-        <h2>Introdução</h2>
+        </header>
+        <hr>
+        <div>
+            <p>Navegue entre as seções desta página</p>
+            <a href="#t1">Introdução</a>
+            <a href="#t2">Características físicas</a>
+            <a href="#t3">A grande mancha vermelha</a>
+            <a href="#t4">Luas de Júpter</a>
+            <a href="#t5">Exploração espacial</a>
+            <a href="#t6">Conclusão</a>
+        </div>
+        <hr>
+        <h2 id="t1">Introdução</h2>
         <p>
             Júpiter, o maior planeta do nosso Sistema Solar, é uma imponente esfera gasosa que intriga e fascina astrônomos 
-            e entusiastas do espaço há séculos.Com sua massa colossal e aparência majestosa, Júpiter desempenha um papel
+            e entusiastas do espaço há séculos.Com sua massa colossal e aparência majestosa, Júpiter desempenha um papel 
             fundamental na dinâmica do nosso sistema planetário.Neste artigo, mergulharemos nas características e
             curiosidades desse gigante gasoso
         </p>
-        <h2>Características físicas</h2>
+        <h2 id="t2">Características físicas</h2>
         <p>
             Júpiter é um planeta gasoso, constituído principalmente de hidrogênio e hélio, com traços de outras substâncias, como metano
             e amônia. Essa composição o torna distinto dos planetas rochosos, como a Terra. Com um diâmetro de aproximadamente 142.984 km,
             Júpiter é mais de 11 vezes maior que a Terra e possui uma massa aproximadamente 318 vezes maior que a do nosso planeta.
         </p>
-        <h2>A grande mancha vermelha</h2>
+        <h2 id="t3">A grande mancha vermelha</h2>
             <img src="https://photojournal.jpl.nasa.gov/jpegMod/PIA22946_modest.jpg?_gl=1*1obflzq*_ga*MTM1MTMwM
             Dg0Ni4xNzAxNjk3NTg0*_ga_37GXT4VGQK*MTcwMTcxNDUxNy40LjEuMTcwMTcxNTA0NS4wLjAuMA.." alt="Imagem de grande mancha vermelha">
         <h2>Sistema de anéis</h2>
@@ -32,7 +43,7 @@
             Esses anéis são compostos principalmente de partículas de poeira e pequenos fragmentos rochosos,
             e sua estrutura pode ser um resultado da colisão de cometas e asteroides com as luas de Júpiter
         </p>
-        <h2>Luas de Jupter</h2>
+        <h2 id="t4">Luas de Jupter</h2>
         <p>
             Além dos anéis, Júpiter é cercado por um vasto conjunto de luas. Atualmente, mais de 80 luas foram identificadas
             ao redor do planeta gigante. Quatro das luas de Júpiter, conhecidas como as "luas galileanas" (Io, Europa, Ganimedes
@@ -41,14 +52,14 @@
         </p>
         <img src="https://photojournal.jpl.nasa.gov/jpegMod/PIA21968_modest.jpg?_gl=1*1bonp85*_ga*MTM1MTMwMDg0
         Ni4xNzAxNjk3NTg0*_ga_37GXT4VGQK*MTcwMTcxNDUxNy40LjEuMTcwMTcxNTA0NS4wLjAuMA.." alt="Imagem de Luas de Jupter">
-        <h2>Exploração espacial</h2>
+        <h2 id="t5">Exploração espacial</h2>
         <p>
             Júpiter tem sido objeto de estudo e exploração pelas agências espaciais há várias décadas. A sonda espacial Voyager 1
             fez uma passagem próxima por Júpiter em 1979, fornecendo as primeiras imagens detalhadas do planeta e suas luas. Mais tarde,
             as missões Galileo,Juno e outras trouxeram dados cruciais sobre a estrutura interna de Júpiter, seu campo magnético e suas
             tempestades
         </p>
-        <h2>Conclusão</h2>
+        <h2 id="t6">Conclusão</h2>
         <p>
             Júpiter é verdadeiramente um colosso celestial que continua a intrigar os cientistas e entusiastas do espaço.
             Sua massa, tamanho e complexidade atmosférica o tornam um laboratório natural para entender a formação e a
